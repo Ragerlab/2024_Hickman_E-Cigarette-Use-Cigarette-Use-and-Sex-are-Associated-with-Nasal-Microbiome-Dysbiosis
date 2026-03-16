@@ -1,6 +1,6 @@
 # E-Cigarette Use, Cigarette Smoking, and Sex are Associated with Nasal Microbiome Dysbiosis
 
-This repository contains script associated with the unpublished manuscript "E-Cigarette Use, Cigarette Smoking, and Sex are Associated with Nasal Microbiome Dysbiosis" (Hickman E, Roca C, Zorn BT, Rebuli ME, Robinette C, Wolfgang MC, Jaspers I, 2023), published in Nicotine & Tobacco Research in 2024 (PMID: 39018186). doi: 10.1093/ntr/ntae176
+This repository contains script associated with the manuscript "E-Cigarette Use, Cigarette Smoking, and Sex are Associated with Nasal Microbiome Dysbiosis" (Hickman E, Roca C, Zorn BT, Rebuli ME, Robinette C, Wolfgang MC, Jaspers I, 2023), published in Nicotine & Tobacco Research in 2024 (PMID: 39018186). doi: 10.1093/ntr/ntae176
 
 Script authors: Elise Hickman, PhD (ehickman@email.unc.edu) and Cristian Roca Avendano, MS (cristianroca@unc.edu)
 
@@ -11,3 +11,11 @@ The script was developed to:
 3. Determine whether mediators of host-microbiome interaction were present at significantly different concentrations in nasal lavage fluid of non-smokers, smokers, and e-cig users.
 
 Each part of the script is organized into a separate sub-directory containing its respective .Rmd, input files, and output files/figures.
+
+# Publication:
+
+**https://pmc.ncbi.nlm.nih.gov/articles/PMC11663808/**
+
+![ntae176_fig2](https://github.com/user-attachments/assets/1bea481b-2916-4662-b4b5-c471d6ffdfcf)
+
+
